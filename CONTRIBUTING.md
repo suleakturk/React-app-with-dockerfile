@@ -1,15 +1,15 @@
 ## How to Contribute
 If you would like to contribute to this project, you can follow the steps below:
 
-**Fork the repository** - You can fork the project to your account by clicking on the "Fork" button in the top left corner of the project.
+**1. Fork the repository** - You can fork the project to your account by clicking on the "Fork" button in the top left corner of the project.
 
-**Make your changes**- Download the project files and make your changes. When making your changes, make sure to follow these guidelines:
+**2. Make your changes**- Download the project files and make your changes. When making your changes, make sure to follow these guidelines:
 
 >Your code should be readable and understandable.
 >Your code should have clear documentation.
 >Your code should be compatible with the existing codebase.
 
-**Submit a pull request** - After you have made your changes, follow these steps to submit a pull request:
+**3. Submit a pull request** - After you have made your changes, follow these steps to submit a pull request:
 
 - Make your changes in a branch against the main branch of the repository you forked.
 - Create a pull request in the branch where you made your changes.
