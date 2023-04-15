@@ -5,7 +5,7 @@ It is a basic React App with Dockerfile.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run with use Dockerfile:
 
 
 ### `docker build -t my-app .` for create docker image
